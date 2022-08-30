@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saravanasubbiah
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on MERN
+- 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/saravanasubbiah-sudalaimuthu/)
 
 <!---
